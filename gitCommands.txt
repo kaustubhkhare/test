@@ -1,0 +1,10 @@
+To initialize git in the folder - git init
+To add files - git add .
+To commit with message - git commit -m "Message"
+To link remote origin - git remote add origin https://github.com/kaustubhkhare/test.git
+To push to remote repository - git push -u origin [branch_name or master]
+To fetch/sync local and remote repos - git fetch
+To switch to different branches/master - git checkout branch1
+
+GIT CHEATSHEET
+https://services.github.com/on-demand/downloads/github-git-cheat-sheet/
